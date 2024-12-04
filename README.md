@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mor-Bar
 
 - 🎓 I’m a 4th-year Software Engineering student specializing in Cyber Security.
-- 👀 I’m passionate about Cyber Security, Cloud Computing, and AR/VR technologies.
+- 👀 I’m passionate about Cyber Security, Cloud Computing, and AI.
 - 🌱 My main programming language is Python, but I also have experience with C, C++, Java, and JavaScript.
 - 🤝 I’m looking to collaborate on any projects related to Cyber Security, Cloud, and AR/VR and general open-source.
 - 📫 How to reach me: morbar1070@gmail.com
